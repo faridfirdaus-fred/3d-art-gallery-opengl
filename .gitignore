@@ -1,0 +1,11 @@
+/__pycache__/
+/__pycache__/*
+.history/
+*.pyc
+
+/.history/
+/.history/*
+__pycache__/
+.venv/
+/.venv/
+/.venv/*
